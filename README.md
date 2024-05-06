@@ -10,41 +10,6 @@ DON'T FEEL AFRAID TO GIVE ME FEEDBACK!!! I want to hear all of your thoughts, su
 #### **Don't worry, you can use this Modpack addon with ANY Modpack as I've included everything needed for it to be added to other packs, LMK if you'd like to include it in yours!**
 ---
 # 👔 Suits! 👔
-![Suits](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/ForgedInFashionSuitsBanner.gif?raw=true)
-<details><summary>
-rah
-</details>
-
----
-# 🔑 Interiors! 🔑
-![Interiors](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/ForgedInFashionInteriorsBanner.gif?raw=true)
-<details><summary>
-
-## Interior Features & Info
-</summary>
-
-</details>
-
----
-# 📃 Configs Spreadsheet! 📃
-<details><summary>
-
-## <ins>[FiF Interior Configs](https://docs.google.com/spreadsheets/d/1prrFkH3J4WONrRQv2MfWdP3K2rT6cYqe3fLDjqQ3kg4/edit#gid=1992628571)</ins>
-</summary>
-
-- All my Interior weights for Vanilla and Modded moons (includes moons not in the pack such as Tolian's Moons, Atlas Abyss, EGypt, and more!
-- A system that automatically generates the configs for the interiors including correct formatting
-- Graphs that can display the information in an easy-to-understand format.
-- A system to automatically compare and document changes from any version of your modpack to your current, for easier changelog organization.
-</details>
-<details>
-
-**The Original spreadsheet was organized and made by [Easyidle123](https://thunderstore.io/c/lethal-company/p/Easyidle123/?section=modpacks), and feel free to ask him or me to make a version of your own using either of ours as a template!**
-<summary>
-
-## <ins>[EQM Interior Rarities](https://docs.google.com/spreadsheets/d/1T2wzTUHbQfy1O8e0B20XglbPA87ZCX6UPG2SY0fp-YE/edit#gid=65197106)</ins>
-</summary>
-</details>
 
 ---
 # 🎬 Credits! 🎬 
