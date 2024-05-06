@@ -1,7 +1,7 @@
-## CHANGELOG
-- Added Niko
-- added suitsTerminal
-- addded skellysuits or suym
+# CHANGELOG
+
+# v1.0.0
+***Modpack Full Release! Includes  Moons and 8 Interiors.***
 
 - removed TooManySuits
 -removed spookys glowskelly
