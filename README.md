@@ -8,13 +8,6 @@ This expansion pack was designed because there are a lot of trash suits and cosm
 
 DON'T FEEL AFRAID TO GIVE ME FEEDBACK!!! I want to hear all of your thoughts, suggestions, and issues. Feel free to contact me in the [Lethal Company Modding Discord Server](https://discord.com/channels/1168655651455639582/1225622177970257961).
 #### **Don't worry, you can use this Modpack addon with ANY Modpack as I've included everything needed for it to be added to other packs, LMK if you'd like to include it in yours!**
-
-# NOTICE!!! 
-<details>
-  You're poor :)
-</details>
-
-### MAKE SURE TO DISABLE OR UNINSTALL LETHALLEVELLOADER ONLY
 ---
 # 👔 Suits! 👔
 ![Suits](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/ForgedInFashionSuitsBanner.gif?raw=true)
