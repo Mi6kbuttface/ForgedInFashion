@@ -2,7 +2,7 @@
 ![ForgedInFashion](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/ForgedInFashionMkII.gif?raw=true)
 ---
 # <ins>[RELEASE!!!] Welcome To ForgedInFashion!</ins>
-### [1.0.0] [For LC v50] An expansion pack that adds **20+ Quality Moons** and **8 Unique Interiors**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to <ins>Test Your Mortality!</ins>
+### [1.0.0] [For LC v50] An expansion pack that adds **80+ Dripy Suits** and **350+ Quality Cosmetics**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to <ins>Test Your Mortality!</ins>
 
 This expansion was crafted to create the perfect blend between the most vanilla-friendly Moons and Interiors, carefully marrying each moon with the perfect interior to complement it. 
 Each interior has already been balanced so no need to worry about having an infinite maze with no scrap in sight.
