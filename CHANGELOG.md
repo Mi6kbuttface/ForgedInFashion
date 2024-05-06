@@ -12,6 +12,7 @@
 - Arctic Suit Colors
 - Spooky Dookies Glowsuits
 - TooManySuits
+- RadicalPosters
 ## Mod Updates
 - Updated More Suits *[1.4.1 ► 1.4.3]*
 - Updated LethalPosters *[1.2.0 ► 1.2.3]*
