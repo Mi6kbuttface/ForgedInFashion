@@ -2,15 +2,18 @@
 ![ForgedInFashion](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/ForgedInFashionMkII.gif?raw=true)
 ---
 # <ins>[RELEASE!!!] Welcome To ForgedInFashion!</ins>
-### [1.0.0] [For LC v50] An expansion pack that adds **80+ Dripy Suits** and **350+ Quality Cosmetics**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to <ins>Test Your Mortality!</ins>
+### [1.0.0] [For LC v50] An expansion pack that adds **80+ Fire Suits** and **350+ Quality Cosmetics**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to <ins>Test Your Mortality!</ins>
 
 This expansion pack was designed because there are a lot of trash suits and cosmetic mods in the streets of Thunderstore, but amongst them is straight underrated fire. As your Drip Dealer™, I would never send you into a fiery death without looking absolutely stiffy. 
 
 DON'T FEEL AFRAID TO GIVE ME FEEDBACK!!! I want to hear all of your thoughts, suggestions, and issues. Feel free to contact me in the [Lethal Company Modding Discord Server](https://discord.com/channels/1168655651455639582/1225622177970257961).
 #### **Don't worry, you can use this Modpack addon with ANY Modpack as I've included everything needed for it to be added to other packs, LMK if you'd like to include it in yours!**
 
-# NOTICE!!! DISABLE LETHALLEVELLOADER
-As of right now, the current version of LLL has MANY issues that can cause desyncs and interior problems across hosts and clients, to fix this, a fork has been created called LethalLevelLoaderFixed and will act as a substitute until otherwise needed.
+# NOTICE!!! 
+<details>
+  You're poor :)
+</details>
+
 ### MAKE SURE TO DISABLE OR UNINSTALL LETHALLEVELLOADER ONLY
 ---
 # 👔 Suits! 👔
