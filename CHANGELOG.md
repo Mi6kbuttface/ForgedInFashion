@@ -1,5 +1,4 @@
 # CHANGELOG
-
 # v1.0.0
 ***Modpack Full Release! Includes 80+ Suits, 350+ Cosmetics***
 ## Changes
