@@ -3,8 +3,15 @@
 ***Modpack Full Release! Includes 80+ Suits, 350+ Cosmetics***
 ## Changes
 ### Added
+- Spookies Cosmetics
+- Niko Suit
+- SkellyGlowSuits
+- Legacy Suits
 ### Removed
-- 
+- SuitSaver
+- Arctic Suit Colors
+- Spooky Dookies Glowsuits
+- TooManySuits
 ## Mod Updates
 - Updated More Suits *[1.4.1 ► 1.4.3]*
 - Updated LethalPosters *[1.2.0 ► 1.2.3]*
