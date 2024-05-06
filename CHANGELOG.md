@@ -7,7 +7,7 @@
 - 
 # Mod Updates
 
-Updated More_Suits 
+### Updated More_Suits *[1.4.1 ► 1.4.3]*
 Updated LethalPosters
 Updated ModelReplacementAPI 
 Updated SimpleCompany
