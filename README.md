@@ -1,7 +1,7 @@
-# 「ForgedInFrontier」
-![ForgedInFrontier](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMkII.gif?raw=true)
+# 「ForgedInFashion」
+![ForgedInFashion](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/ForgedInFashionMkII.gif?raw=true)
 ---
-# <ins>[RELEASE!!!] Welcome To ForgedInFrontier!</ins>
+# <ins>[RELEASE!!!] Welcome To ForgedInFashion!</ins>
 ### [1.0.0] [For LC v49] An expansion pack that adds **20+ Quality Moons** and **8 Unique Interiors**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to <ins>Test Your Mortality!</ins>
 
 This expansion was crafted to create the perfect blend between the most vanilla-friendly Moons and Interiors, carefully marrying each moon with the perfect interior to complement it. 
@@ -15,7 +15,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ### MAKE SURE TO DISABLE OR UNINSTALL LETHALLEVELLOADER ONLY
 ---
 # 🌑 Moons! 🌑
-![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif?raw=true)
+![Moons](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/ForgedInFashionMoonsBanner.gif?raw=true)
 <details><summary>
 
 ## Moon Prices & Info
@@ -78,7 +78,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 
 ---
 # 🔑 Interiors! 🔑
-![Interiors](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierInteriorsBanner.gif?raw=true)
+![Interiors](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/ForgedInFashionInteriorsBanner.gif?raw=true)
 <details><summary>
 
 ## Interior Features & Info
@@ -90,7 +90,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - Blue fire torches light fire escapes
 - The abandoned treasure of a King lies deepest in the labyrinth
 - Many dungeon cells remain intact, useful for trapping enemies in a pinch
-![Dungeon Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/DungeonV.gif?raw=true)
+![Dungeon Tapes](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/DungeonV.gif?raw=true)
 
 ## <ins>🐀 Sewer 🐀 (*scoopy*) 🐀</ins>
 **The Sewer is a damp underground sewer system, long corridors follow a stream mixed with filth and fortune. Follow the stream to cramped piping leading you further into the gross facility that soon will claim your body as its own.**
@@ -98,7 +98,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - Choose a ladder or stairway as your path into the sewer
 - Long corridors are advantageous in both the search for scrap and the avoidance of enemies.
 - Broken pipe parkour rooms can be used to distance yourself from hostiles
-![Sewer Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/SewerV.gif?raw=true)
+![Sewer Tapes](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/SewerV.gif?raw=true)
 
 ## <ins>☢️ Bunker ☢️ (*Major_And_Skiz*) ☢️</ins>
 **The Bunker is a dimly-lit underground stronghold, resembling the nature of WWI bunkers, with long rusted metal corridors that echo the remnants of wartime. Metal-plated bulkheads contain both treasure and traps buried deep within.**
@@ -106,7 +106,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - Bunker-specific scrap can be found only inside this interior
 - Rats rule the bunker, as they are the only thing strong enough to have survived
 - A familiar yet different radioactive buzzing can be heard inside this facility
-![Bunker Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
+![Bunker Tapes](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/BunkerV.gif?raw=true)
 
 ## <ins>💡 Office 💡 (*Piggy*) 💡</ins>
 **The Office is an abandoned Company bureau, containing multiple floors and a powered elevator. In the Hallways filled with computers and belongings left behind, a new creature called The Shrimp lurks, with an appetite for scrap not so different than your own.**
@@ -114,7 +114,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - The Elevator used to travel between floors, can be controlled using the terminal commands: [1F, 2F, 3F]
 - The Elevator also contains storage shelves, which can help with hauling scrap and equipment in and out of the facility
 - A new enemy called The Shrimp is passive until you fail to feed it, in which case you become its next meal
-![Office Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/OfficeV.gif?raw=true)
+![Office Tapes](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/OfficeV.gif?raw=true)
 
 ## <ins>💎 Scarlet Devil Mansion 💎 (*Alice*) 💎</ins>
 **The Scarlet Devil Mansion is a sinister abode, its hallways cloaked in shadow and drained of vibrant hues. Inside lies endless riches, at the cost of the peril that follows anyone brave enough to disturb the fairies within them, to go against the flow of time and the woman who may wield it.**
@@ -123,7 +123,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - Paintings can be found inside the mansion, their value is immense, however, the risk of stealing them will be proportional
 - Suits of haunted Knight armor can be found patrolling the halls, watch your back as they only like to strike from behind
 - Rare powerful colored crystals can be found, which could either be sold for profit, or used to enhance your company-provided flashlights
-![Scarlet Devil Mansion Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ScarletDevilMansionV.gif?raw=true)
+![Scarlet Devil Mansion Tapes](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/ScarletDevilMansionV.gif?raw=true)
 
 ## <ins>🤿 PoolRooms 🤿 (*skidz*) 🤿</ins>
 **The PoolRooms are an anomaly resembling the characteristics and aesthetics of the modern-day swimming pool. Equipped with bathrooms, lockers, and saunas, most of the rooms appear to be slightly submerged in lukewarm water, this liminal space appears easy to lose yourself in.**
@@ -131,7 +131,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - Lockers are great places to search for hidden loot
 - Pool toys and utilities can be found lying around the area
 - Water appears to have trace amounts of Epsom salt for muscle relief, and the saunas are fully functional
-![PoolRooms Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/PoolRoomsV.gif?raw=true)
+![PoolRooms Tapes](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/PoolRoomsV.gif?raw=true)
 
 ## <ins>🏥 Mental Hospital 🏥 (*Dantor*) 🏥</ins>
 **The Mental Hospital is a psychiatric institution, designed to treat and cure even the most insane of employees. Littered with remnants of previous patients, it seems there was more than meets the eye, surgical tables, poisonous sedative gas, and even death traps were designed to keep employees like you from seeing the light of day.**
@@ -139,7 +139,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - Every time you enter may look different from your last; I'm sure this has nothing to do with your mental health
 - Death traps are constructed around the building, many containing parkour, y'know, to stop patients from escaping
 - Pipes contain poisonous laughing gas, which may not be as funny if you breathe it in
-![Mental Hospital Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/MentalHospitalV.gif?raw=true)
+![Mental Hospital Tapes](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/MentalHospitalV.gif?raw=true)
 
 ## <ins>🚨 Sector-0 🚨 (*RosiePies*) 🚨</ins>
 **Sector-0 was a classified Company bioweapon containment zone, only Authorized Assets may be debriefed. An evacuation-level event occurred in the Biolabs, resulting from multiple containment breaches, causing the immediate evacuation and abandonment of all Sector-0 facilities; it is advised that you do not investigate further. Your death will not be insured.**
@@ -147,7 +147,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - Nontoxic gas leaks in a large room with scaffolding
 - Powered lifts can be used to ascend or descend floors
 - Most containment capsules seem operational, yet unstable and on the verge of failure
-![Sector-0 Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/Sector0V.gif?raw=true)
+![Sector-0 Tapes](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/Sector0V.gif?raw=true)
 </details>
 
 ---
