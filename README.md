@@ -6,7 +6,7 @@
 
 This expansion pack was designed because there are a lot of trash suits and cosmetic mods in the streets of Thunderstore, but amongst them is straight underrated fire. As your Drip Dealer™, I would never send you into a fiery death without looking absolutely stiffy. 
 
-DON'T FEEL AFRAID TO GIVE ME FEEDBACK!!! I want to hear all of your thoughts, suggestions, and issues. Feel free to contact me in the [Lethal Company Modding Discord Server](https://discord.com/channels/1168655651455639582/1225622177970257961).
+DON'T FEEL AFRAID TO GIVE ME FEEDBACK!!! If you want specific suits, posters, or cosmetics removed or added to this pack, feel free to contact me in the [Lethal Company Modding Discord Server](https://discord.com/channels/1168655651455639582/1225622177970257961). I am your Drip Dealer™ after all ;)
 #### **Don't worry, you can use this Modpack addon with ANY Modpack as I've included everything needed for it to be added to other packs, LMK if you'd like to include it in yours!**
 ---
 # 🎬 Credits! 🎬 
