@@ -2,7 +2,7 @@
 ![ForgedInFashion](https://github.com/Mi6kbuttface/ForgedInFashion/blob/main/ForgedInFashionMkII.gif?raw=true)
 ---
 # <ins>[RELEASE!!!] Welcome To ForgedInFashion!</ins>
-### [1.0.0] [For LC v50] An expansion pack that adds **80+ Fire Suits** and **350+ Quality Cosmetics!** Designed for ***ForgedInFatality***, but can be used for any Modpack!
+### [1.0.0] [For LC v50] An expansion pack that adds **80+ Fire Suits**, **350+ Quality Cosmetics**, as well as the (in my expert opinion) **BEST** posters out there! Designed for ***ForgedInFatality***, but can be used for any Modpack!
 
 This expansion pack was designed because there are a lot of trash suits and cosmetic mods in the streets of Thunderstore, but amongst them is straight underrated fire. As your Drip Dealer™, I would never send you into a fiery death without looking absolutely stiffy. 
 
